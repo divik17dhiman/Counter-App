@@ -1,0 +1,11 @@
+body {
+    background-color: dimgray;
+}
+#increment-btn {
+    background-color: ivory;
+    border-radius: 5px;
+}
+#decrement-btn {
+    background-color: ivory;
+    border-radius: 5px;
+}
